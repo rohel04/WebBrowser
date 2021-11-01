@@ -1,0 +1,10 @@
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe.config
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\bin\Debug\MyBrowser.pdb
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.AssemblyReference.cache
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.Properties.Resources.resources
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.GenerateResource.cache
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.exe
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.pdb
+C:\Users\Rohel Shakya\source\repos\MyBrowser\MyBrowser\obj\Debug\MyBrowser.MyBrowser.resources
